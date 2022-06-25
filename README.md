@@ -10,9 +10,9 @@
   - import zabbix template from this repo into zabbix
   - create host "NIC.RU___<login_account_nic.ru>"
   - write macros in the host:
-   {$NICRU_ACCOUNTUSER} - account login
-   {$NICRU_ACCOUNTPASS} - account password
-   {$NICRU_APPUSER}, {$NICRU_APPPASS} - application login and password (**APP-LOGIN**, **APP-PASSWORD**)
+    - {$NICRU_ACCOUNTUSER} - account login
+    - {$NICRU_ACCOUNTPASS} - account password
+    - {$NICRU_APPUSER}, {$NICRU_APPPASS} - application login and password (**APP-LOGIN**, **APP-PASSWORD**)
   - Attach template to the host
   - Discovery rule will get array with domain names
   - Items and triggers will be created
