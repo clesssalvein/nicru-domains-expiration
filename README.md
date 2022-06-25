@@ -6,6 +6,8 @@
   - create APP named "**zabbix_nicru**"
   - get and remember: **APP-LOGIN**, **APP-PASSWORD**
 - At Zabbix server
+  - Install "Python 3"
+  - Install "Whois"
   - copy *.sh scripts from this repo to /usr/lib/zabbix/externalscripts
   - import zabbix template *.xml from this repo into zabbix
   - create host "NIC.RU___<login_account_nic.ru>"
