@@ -3,7 +3,7 @@
 - At https://www.nic.ru
   - login to your account
   - go to: https://www.nic.ru/manager/oauth.cgi?step=oauth.app_register
-  - create APP named "**letsencrypt_nicru**"
+  - create APP named "**zabbix_nicru**"
   - get and remember: **APP-LOGIN**, **APP-PASSWORD**
 - At Zabbix server
   - copy *.sh scripts from this repo to /usr/lib/zabbix/externalscripts
