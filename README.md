@@ -1,4 +1,4 @@
-# Monitoring the domains expiration date at www.nic.ru
+# Installation
 
 - At https://www.nic.ru
   - login to your account
