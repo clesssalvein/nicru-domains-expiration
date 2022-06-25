@@ -6,9 +6,10 @@
 apiBaseUrl="https://api.nic.ru"
 OauthUrl="https://api.nic.ru/oauth/token"
 
-#nicruAccountUser="1498232/NIC-D"
+# example
+#nicruAccountUser="1111111/NIC-D"
 #nicruAccountPass="PASSWORD"
-#nicruAppLogin="8eadca8b3e6fd0f34fa974e001f37814"
+#nicruAppLogin="r09f4583g94jghhk54hasdsdfgds"
 #nicruAppPass="PASSWORD"
 
 nicruAccountUser=$1
