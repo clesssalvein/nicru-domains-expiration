@@ -7,7 +7,7 @@
   - get and remember: **APP-LOGIN**, **APP-PASSWORD**
 - At Zabbix server
   - copy *.sh scripts from this repo to /usr/lib/zabbix/externalscripts
-  - import zabbix template from this repo into zabbix
+  - import zabbix template *.xml from this repo into zabbix
   - create host "NIC.RU___<login_account_nic.ru>"
   - write macros in the host:
     - {$NICRU_ACCOUNTUSER} - account login
