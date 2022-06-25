@@ -13,5 +13,6 @@
    {$NICRU_ACCOUNTUSER} - account login
    {$NICRU_ACCOUNTPASS} - account password
    {$NICRU_APPUSER}, {$NICRU_APPPASS} - application login and password (**APP-LOGIN**, **APP-PASSWORD**)
-- connect template to the host
-- items will be created over time until the end of the service
+  - Attach template to the host
+  - Discovery rule will get array with domain names
+  - Items and triggers will be created
